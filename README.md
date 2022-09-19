@@ -1,5 +1,5 @@
 # Sort-Visualizer
-This is a simple visualization project made using javascript.
+This is a simple visualization project made using HTML,CSS, javascript.
 
 
 
